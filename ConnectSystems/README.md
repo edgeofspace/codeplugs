@@ -7,10 +7,10 @@ Codeplugs for the Connect Systems (https://www.connectsystems.com/) series of DM
 * [Connect Systems CS800](https://github.com/edgeofspace/codeplugs/tree/main/ConnectSystems/CS800) (70cm)
   * Firmware Version 3.02.08 (4000 channels and 130,000 contacts)
   * CPS Version R4.01.008
-  * Full version
+  * Full version [CS800-Full-3.02.08.rdb](https://github.com/edgeofspace/codeplugs/blob/main/ConnectSystems/CS800/CS800-Full-3.02.08.rdb)
     * RMHam, EOSS and other channels, zones and scan lists
     * United States and Canada contacts as-of Feb 27, 2022
-  * EOSS version
+  * EOSS version [CS800-EOSS-3.02.08.rdb](https://github.com/edgeofspace/codeplugs/blob/main/ConnectSystems/CS800/CS800-EOSS-3.02.08.rdb)
     * EOSS-only related channels, zones and scan lists
     * United States and Canada contacts as-of Feb 27, 2022
 * [Connect Systems CS800D](https://github.com/edgeofspace/codeplugs/tree/main/ConnectSystems/CS800D) (2m and 70cm)
