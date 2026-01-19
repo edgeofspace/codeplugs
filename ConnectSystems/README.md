@@ -2,7 +2,7 @@
 
 Updated Feb 27, 2022
 
-Codeplugs for the Connect Systems (https://www.connectsystems.com/) series of DMR radios.
+Codeplugs for the [Connect Systems](https://www.connectsystems.com/) series of DMR radios.
 
 * Connect Systems CS800 (70cm)
   * Firmware Version 3.02.08 (4000 channels and 130,000 contacts)

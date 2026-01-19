@@ -9,5 +9,4 @@ Codeplugs for the AnyTone series of DMR radios.
   * CPS Version 1.15
   * Full version
 
-
 Use at your own risk!
