@@ -20,5 +20,7 @@ Codeplugs for the [Connect Systems](https://www.connectsystems.com/) series of D
     * RMHam, EOSS and other channels, zones and scan lists
     * All world-wide contacts as of Feb 27, 2022
   * EOSS Version [CS800D-EOSS-4.03.25.rdb](https://github.com/edgeofspace/codeplugs/raw/main/ConnectSystems/CS800D/CS800D-EOSS-4.03.25.rdb)
+    * EOSS-only related channels, zones and scan lists
+    * United States and Canada contacts as-of Feb 27, 2022
 
 Use at your own risk!
